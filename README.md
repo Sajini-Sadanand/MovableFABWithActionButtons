@@ -5,6 +5,8 @@ The project uses onToch listener method to make the views move and setX and setY
 Credit goes to: https://stackoverflow.com/a/46373935/2319627
 
 Screenshots:
-![ScreenShot](https://drive.google.com/open?id=1SbPooRTmsMej8i65EW99-nrx5oNMJVnh)
-![ScreenShot](https://drive.google.com/open?id=1t3Vz6KMX79JD2pTR326ZrMR_jIMFOSKm)
+
+![screenshot_2018-12-04-10-26-17-71](https://user-images.githubusercontent.com/7626910/49439819-10bb8c00-f7e8-11e8-9036-4b10c6f22eed.png)
+
+![screenshot_2018-12-04-10-26-33-16](https://user-images.githubusercontent.com/7626910/49439820-10bb8c00-f7e8-11e8-8062-a6ebfe0a195a.png)
 
